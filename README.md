@@ -9,3 +9,6 @@ Spring 2024.
 - [Assignments](assignments/)
 - [Schedule](.ical/)
 
+## Related repositories
+
+- PDF files generated with [markdown-pdf-styles](https://github.com/hendraanggrian/markdown-pdf-styles/)
