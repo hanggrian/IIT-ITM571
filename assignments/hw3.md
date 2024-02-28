@@ -1,4 +1,4 @@
-# Homework 3: Team Leadership
+# Homework 3: Team leadership
 
 > This is a quiz over chapters 1 - 10 of Mary Shapiro's book HBR (Harvard
   Business Review) Guide to Leading Teams. This quiz can be found under

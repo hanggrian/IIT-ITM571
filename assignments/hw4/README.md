@@ -1,4 +1,4 @@
-# Homework 4: Project Plan
+# Homework 4: Project plan
 
 > Identify a project you would like to migrate into the template format provided
   below, and then do so. IT projects, based on your personal experience (from

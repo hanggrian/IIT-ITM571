@@ -5,7 +5,9 @@
      use to improve your leadership skills.
 > 3. Keep this assignment under 23 sentences.
 
+::: no-indent
 <img src="https://github.com/hendraanggrian/IIT-ITM571/raw/assets/assignments/hw1/figure1.png" width="640"><br><small>Figure 1 &mdash; Lisa Su profile by CNN</small>
+:::
 
 AMD entered the consumer microprocessor market in the early 1980s and again in
 the 2000s with the purchase of the graphics company ATI. However, their products
@@ -24,15 +26,16 @@ is a combination of sub-CPUs into the same die. This scientific breakthrough has
 allowed AMD to repurpose defects, thereby increasing yields and cost-efficiency
 in the manufacturing process.<sup>[\[3\]]</sup>
 
+::: no-indent
 <img src="https://github.com/hendraanggrian/IIT-ITM571/raw/assets/assignments/hw1/figure2.png" width="640"><br><small>Figure 2 &mdash; Intel vs. AMD market share</small>
+:::
 
 The result has been a resounding success, with the company's shares rising 1300%
 in value. Nowadays, AMD processors are commonplace in servers,
-workstations, and laptops. They are not only cheaper than their Intel
-equivalents but more technologically advanced as well. To add insult to injury,
-AMD has also defeated Nvidia in powering the latest generation of gaming
-consoles such as *Microsoft Xbox*, *Sony PlayStation*, and the portable *Steam
-Deck* from *Valve*.
+workstations and laptops. They are not only cheaper than their Intel equivalents
+but more technologically advanced as well. To add insult to injury, AMD has also
+defeated Nvidia in powering the latest generation of gaming consoles such as
+*Microsoft Xbox*, *Sony PlayStation* and the portable *Steam Deck* from *Valve*.
 
 For single-handedly saving AMD from the brink of collapse, Lisa Su is my role
 model in leadership. In a bid to transform the company, she disregarded the
