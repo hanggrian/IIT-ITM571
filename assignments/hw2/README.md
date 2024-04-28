@@ -22,7 +22,7 @@
 :::
 
 For this assignment, the software development plan of my choosing is the
-**Chicago Transit Authority (CTA)**, heavily inspired by personal experience
+**Chicago Transit Authority (CTA),** heavily inspired by personal experience
 during my stay in the city. However, the scope of this software excludes
 internal operations such as railway management, safety protocols, and corporate
 software like CRMs and ERPs. Instead, my software development plan handles

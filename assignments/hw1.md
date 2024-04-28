@@ -1,9 +1,9 @@
 # Homework 1: Leadership
 
-> 1. Identify a leader who you admire and why you admire them.
-> 2. Identify 2 techniques they used to be known as a great leader that you can
-     use to improve your leadership skills.
-> 3. Keep this assignment under 23 sentences.
+> 1.  Identify a leader who you admire and why you admire them.
+> 1.  Identify 2 techniques they used to be known as a great leader that you can
+      use to improve your leadership skills.
+> 1.  Keep this assignment under 23 sentences.
 
 ::: no-indent
 <img src="https://github.com/hendraanggrian/IIT-ITM571/raw/assets/assignments/hw1/figure1.png" width="640"><br><small>Figure 1 &mdash; Lisa Su profile by CNN</small>
@@ -48,9 +48,11 @@ in technology.
 
 ## References
 
-1. [CNBC: How AMD became a chip giant and leapfrogged Intel after years of playing catch-up](https://www.cnbc.com/2022/11/22/how-amd-became-a-chip-giant-leapfrogged-intel-after-playing-catch-up.html)
-2. [CNN: From the brink of bankruptcy to a 1,300% stock gain: How this CEO turned around her company.](https://edition.cnn.com/2020/03/27/tech/lisa-su-amd-risk-takers/index.html)
-3. [YouTube: The ACTUAL Difference Between Intel and AMD by Techquickie](https://www.youtube.com/watch?v=KGMABnrgwRU)
+1.  [CNBC: How AMD became a chip giant and leapfrogged Intel after years of
+    playing catch-up](https://www.cnbc.com/2022/11/22/how-amd-became-a-chip-giant-leapfrogged-intel-after-playing-catch-up.html)
+1.  [CNN: From the brink of bankruptcy to a 1,300% stock gain: How this CEO
+    turned around her company.](https://edition.cnn.com/2020/03/27/tech/lisa-su-amd-risk-takers/index.html)
+1.  [YouTube: The ACTUAL Difference Between Intel and AMD by Techquickie](https://www.youtube.com/watch?v=KGMABnrgwRU)
 
 [\[1\]]: https://www.cnbc.com/2022/11/22/how-amd-became-a-chip-giant-leapfrogged-intel-after-playing-catch-up.html
 [\[2\]]: https://edition.cnn.com/2020/03/27/tech/lisa-su-amd-risk-takers/index.html

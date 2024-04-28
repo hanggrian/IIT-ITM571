@@ -7,8 +7,8 @@
 > According to the PMBOK, a project is: "A temporary endeavor undertaken to
   create a unique product, service or result."
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -17,8 +17,8 @@
 > The Statement of Work (SOW) is "A narrative description of products, services,
   or results to be delivered by the project."
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -28,10 +28,10 @@
   stakeholder needs and requirements to meet (project) objectives... (it
   provides) the basis for defining product scope and project scope" is...
 >
-> 1. Reciprocity
-> 2. Communications planning
-> 3. Collect requirements
-> 4. Sub Ad-gum
+> 1.  Reciprocity
+> 1.  Communications planning
+> 1.  Collect requirements
+> 1.  Sub Ad-gum
 
 **C.** Collect requirements
 
@@ -39,10 +39,10 @@
 
 > A communication plan is to be started when?
 >
-> 1. You need to define what information you are sending to whom.
-> 2. At the beginning of a project
-> 3. Right before project closeout
-> 4. Mid-way through the project
+> 1.  You need to define what information you are sending to whom.
+> 1.  At the beginning of a project
+> 1.  Right before project closeout
+> 1.  Mid-way through the project
 
 **B.** At the beginning of a project
 
@@ -51,8 +51,8 @@
 > Brain storming, focus groups and interviews are some typical ways to gather
   requirement's for a project.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -62,8 +62,8 @@
   to establish the validity of the benefits of a specific effort that is used as
   a basis for authorization of further project management activities.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -75,10 +75,10 @@
 > Hint, he drew circles, and the word we are looking for here was the word in
   the center circle.
 >
-> 1. Why
-> 2. How
-> 3. Who
-> 4. What
+> 1.  Why
+> 1.  How
+> 1.  Who
+> 1.  What
 
 **A.** Why
 
@@ -88,8 +88,8 @@
   affected by, or perceive itself to be affected by a decision, activity, or
   outcome of a project, program or portfolio."
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -110,10 +110,10 @@
 > Tom's gift to Brenda to get Brenda to do somethine for him was an example of
   ______.
 >
-> 1. Reciprocity
-> 2. Refractory
-> 3. Scarcity
-> 4. Authority
+> 1.  Reciprocity
+> 1.  Refractory
+> 1.  Scarcity
+> 1.  Authority
 
 **A.** Reciprocity
 
@@ -123,8 +123,8 @@
   in the project management plan and implementing approval changes to achieve
   the project's objectives."
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -134,10 +134,10 @@
   to be present in a product, service, or result to satisfy a contract or other
   formally imposed specification."
 >
-> 1. Meta Data
-> 2. Unit test plan
-> 3. Scope Processing
-> 4. Requirement
+> 1.  Meta Data
+> 1.  Unit test plan
+> 1.  Scope Processing
+> 1.  Requirement
 
 **D.** Requirement
 
@@ -146,8 +146,8 @@
 > On a work breakdown structure the work package has nothing that reports up to
   it.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -158,8 +158,8 @@
   manager with the authority to apply organizational resources to project
   activities.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -167,8 +167,8 @@
 
 > If someone is adversely impacted by a project then they are NOT a stakeholder.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -179,8 +179,8 @@
   (project) objectives... (it provides) the basis for defining product scope and
   project scope."
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -192,8 +192,8 @@
   perspective. The idea is that by having people understand why it is important
   to them, they are more likely to take the action you want them to take.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -218,10 +218,10 @@
 >
 > The persuasive technique Ruchika used to improve Fred's performance was:
 >
-> 1. Authority
-> 2. Consistency
-> 3. Reciprocity
-> 4. Consensus
+> 1.  Authority
+> 1.  Consistency
+> 1.  Reciprocity
+> 1.  Consensus
 
 **D.** Consensus
 
@@ -230,10 +230,10 @@
 > When a message is sent, sometimes the message is distorted before it gets to
   the receiver. The name we give this distortion is:
 >
-> 1. Transmission channel
-> 2. Receiver
-> 3. Noise
-> 4. Encode
+> 1.  Transmission channel
+> 1.  Receiver
+> 1.  Noise
+> 1.  Encode
 
 **C.** Noise
 
@@ -246,8 +246,8 @@
 >   <li>Stakeholder's needs</li>
 > </ol>
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -255,8 +255,8 @@
 
 > Metrics are just a measurement.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -265,10 +265,10 @@
 > "The sum of the products, services, and results to be provided as a project"
   is the definition of:
 >
-> 1. Scope
-> 2. Quantitative selection
-> 3. PERT
-> 4. Risk matrix
+> 1.  Scope
+> 1.  Quantitative selection
+> 1.  PERT
+> 1.  Risk matrix
 
 **A.** Scope
 
@@ -278,10 +278,10 @@
   line in a requirement document points to a related item in a predecessor
   document, is called the:
 >
-> 1. Requirements Traceability Matrix
-> 2. Obfuscation
-> 3. Transparency
-> 4. Duplicity
+> 1.  Requirements Traceability Matrix
+> 1.  Obfuscation
+> 1.  Transparency
+> 1.  Duplicity
 
 ## Problem 23
 
@@ -290,8 +290,8 @@
   met through development of artifacts and implementation of activities designed
   to achieve effective communications."
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -299,8 +299,8 @@
 
 > "Interactive," "Push," and "Pull" are communication methods.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -334,8 +334,8 @@
 > If I have any troubles building the web site, 5 of my top former students, who
   have done very similar work to this, have agreed to help me out at no cost.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -344,10 +344,10 @@
 > An effective SMART goal should be as general as possible to make it easy to
   achieve.
 >
-> 1. Never
-> 2. Always
-> 3. Most of the time
-> 4. Almost always.
+> 1.  Never
+> 1.  Always
+> 1.  Most of the time
+> 1.  Almost always.
 
 **A.** Never
 
@@ -369,8 +369,8 @@
   technical and organizational interfaces..." and through monitor-and-control,
   applies the necessary guidance to ensure the project remains on track.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -379,8 +379,8 @@
 > According to the PMBOK: "research shows that top project managers spend
   about 90% of their time on a project in communication."
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -389,9 +389,9 @@
 > This is when document, artifact or similar needs to be approved by all voting
   stakeholders this is called:
 >
-> 1. Unanimity
-> 2. Majority
-> 3. Plurality
-> 4. Autocratic
+> 1.  Unanimity
+> 1.  Majority
+> 1.  Plurality
+> 1.  Autocratic
 
 **A.** Unanimity

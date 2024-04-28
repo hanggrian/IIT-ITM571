@@ -16,8 +16,8 @@
   longer it takes to make decisions, and the tougher it is to manage information
   flow.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -25,8 +25,8 @@
 
 > It is a good assumption that all team members will contribute equally.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -35,8 +35,8 @@
 > Task goals specify what your outcomes should look like. They direct what gets
   done.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -45,8 +45,8 @@
 > To avoid confusion you must have explicit explanations about who is doing
   what.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -55,8 +55,8 @@
 > Rules of conduct are not generally a good idea because they will restrict the
   team's creativity.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -65,8 +65,8 @@
 > You don't have to monitor task status vs. plans. It is ok to assume that if a
   task owner will, on their own, contact you if things are not going well.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -75,8 +75,8 @@
 > Investing time in identifing tasks, process goals, roles and rules of conduct
   is a great idea.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -85,8 +85,8 @@
 > Consensus really just means that all members feel they have had a fair hearing
   so that they'll publicly defend the team's decisions.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **A.** True
 
@@ -95,8 +95,8 @@
 > The time to start holding the team members accountable is to wait until after
   something goes wrong.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
 
@@ -105,7 +105,7 @@
 > Sending thank you emails is an awful way to knowledge a team member's
   accomplishments.
 >
-> 1. True
-> 2. False
+> 1.  True
+> 1.  False
 
 **B.** False
