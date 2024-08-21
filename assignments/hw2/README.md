@@ -18,7 +18,7 @@
   assignment.**
 
 ::: no-indent
-![Software development plan overview.](https://github.com/hendraanggrian/IIT-ITM571/raw/assets/assignments/hw2/overview.png)
+![Software development plan overview.](https://github.com/hanggrian/IIT-ITM571/raw/assets/assignments/hw2/overview.png)
 :::
 
 For this assignment, the software development plan of my choosing is the
@@ -32,10 +32,10 @@ The project will follow a five-phase development cycle (requirements gathering,
 design, development, deployment, and review) with an estimated timeframe of 6
 months, beginning in July 2024 and concluding in December 2024.
 
-- [Gantt Chart](https://github.com/hendraanggrian/IIT-ITM571/releases/download/hw2/gantt_chart.pdf)
-- [Task usage](https://github.com/hendraanggrian/IIT-ITM571/releases/download/hw2/task_usage.pdf)
-- [Team planner](https://github.com/hendraanggrian/IIT-ITM571/releases/download/hw2/team_planner.pdf)
-- [Resource sheet](https://github.com/hendraanggrian/IIT-ITM571/releases/download/hw2/resource_sheet.pdf)
+- [Gantt Chart](https://github.com/hanggrian/IIT-ITM571/releases/download/hw2/gantt_chart.pdf)
+- [Task usage](https://github.com/hanggrian/IIT-ITM571/releases/download/hw2/task_usage.pdf)
+- [Team planner](https://github.com/hanggrian/IIT-ITM571/releases/download/hw2/team_planner.pdf)
+- [Resource sheet](https://github.com/hanggrian/IIT-ITM571/releases/download/hw2/resource_sheet.pdf)
 
 ::: no-indent
 [View source](cta.mpp)

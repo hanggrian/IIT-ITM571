@@ -6,7 +6,7 @@
 > 1.  Keep this assignment under 23 sentences.
 
 ::: no-indent
-<img src="https://github.com/hendraanggrian/IIT-ITM571/raw/assets/assignments/hw1/figure1.png" width="640"><br><small>Figure 1 &mdash; Lisa Su profile by CNN</small>
+<img src="https://github.com/hanggrian/IIT-ITM571/raw/assets/assignments/hw1/figure1.png" width="640"><br><small>Figure 1 &mdash; Lisa Su profile by CNN</small>
 :::
 
 AMD entered the consumer microprocessor market in the early 1980s and again in
@@ -27,7 +27,7 @@ allowed AMD to repurpose defects, thereby increasing yields and cost-efficiency
 in the manufacturing process.<sup>[\[3\]]</sup>
 
 ::: no-indent
-<img src="https://github.com/hendraanggrian/IIT-ITM571/raw/assets/assignments/hw1/figure2.png" width="640"><br><small>Figure 2 &mdash; Intel vs. AMD market share</small>
+<img src="https://github.com/hanggrian/IIT-ITM571/raw/assets/assignments/hw1/figure2.png" width="640"><br><small>Figure 2 &mdash; Intel vs. AMD market share</small>
 :::
 
 The result has been a resounding success, with the company's shares rising 1300%
